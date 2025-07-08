@@ -1,0 +1,2 @@
+Please download the file from:
+https://github.com/CodingIsFun-Studio/sales-dashboard/blob/main/supermarkt_sales.xlsx
